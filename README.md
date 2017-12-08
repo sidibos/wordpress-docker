@@ -8,7 +8,7 @@ Clone this repos and run the following commands:
 
 `docker-compose up -d` and add `--build` if you want to rebuild the image
 
-Browse the link below and follow the instruction
+Browse the link below and follow the instructions
 
 `http://localhost:7000`
 
