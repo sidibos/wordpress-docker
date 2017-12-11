@@ -6,7 +6,9 @@ Clone this repos and run the following commands:
 
 `cd wordpress-docker`
 
-`docker-compose up -d` and add `--build` if you want to rebuild the image
+`docker-compose build` if you want to rebuild the image.
+
+`docker-compose up -d` to build the containers.
 
 Browse the link below and follow the instructions
 
