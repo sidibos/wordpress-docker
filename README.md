@@ -15,3 +15,10 @@ Browse the link below and follow the instructions
 ## Yoti plugin setup
 Please follow the instructions [here](https://github.com/getyoti/yoti-wordpress) to set Yoti up.
 
+## Removing docker containers
+Run the following commands to remove docker containers:
+
+`docker-compose stop` and
+
+`docker-compose rm`
+
